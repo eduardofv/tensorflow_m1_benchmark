@@ -8,7 +8,7 @@ A simple test: one of the most basic Keras examples slightly modified to test th
 
 ## Code
 
-(Jupyter notebook)[text_classification_from_scratch_for_benchmark.ipynb]
+[Jupyter notebook](text_classification_from_scratch_for_benchmark.ipynb)
 
 ## Results
 
@@ -28,7 +28,7 @@ Dell i7-9850H / NVIDIA Quadro T2000|8.6|13.8|
 
 ## Will M1 performance improve?
 
-Check this question at (Apple Developer Forums)[https://developer.apple.com/forums/thread/690276]
+Check this question at [Apple Developer Forums](https://developer.apple.com/forums/thread/690276)
 
 can we expect, once multi-GPU is available for the M1, an increase in performance - maybe close to 8x if the 8 GPU cores become available, and would the GPU cores will be seen as a single GPU as the NVIDIA cards or we will need to use a distribution strategy to be able to use them in parallel?
 
