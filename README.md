@@ -1,4 +1,4 @@
-# Becnhmarking Tensorflow on Mac M1, Colab and Intel/NVIDIA
+# Benchmarking Tensorflow on Mac M1, Colab and Intel/NVIDIA
 
 A simple test: one of the most basic Keras examples slightly modified to test the time per epoch and time per step in each of the following configurations. Results below.
 
